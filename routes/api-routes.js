@@ -1,5 +1,5 @@
-const Ques = require('../models/Question');
-const Comm = require('../models/Comment');
+const Ques = require('../models/question');
+const Comm = require('../models/comment');
 
 module.exports = function (app) {
 
